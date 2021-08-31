@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+### <div align="center">I'm Paula, a  java backend developer 👨‍💻 trying to get my 1st job as a dev!!💪</div>  
+
+- 🔭 My most important project to date is  https://github.com/Pzacarias/Aladas 🛫  
+
 <!--
 **Pzacarias/Pzacarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
