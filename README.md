@@ -1,4 +1,3 @@
-<img src="https://github.com/Pzacarias/Pzacarias/blob/main/banner%20git.jpg" alt="banner Paula Zacarias - backend developer">
 
 
 
