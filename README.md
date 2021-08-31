@@ -1,5 +1,4 @@
-
-
+<img src="https://github.com/Pzacarias/Pzacarias/blob/main/banner%20git_.jpg" alt="banner Paula Zacarias - backend developer">
 
 ### Hi there 👋
 
